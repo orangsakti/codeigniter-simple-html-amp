@@ -1,0 +1,16 @@
+{
+    "name" : "Simple-HTML-AMP",
+    "description" : "Simple html to amp implementation in Codeigniter",
+    "license": "dbad",
+    "authors": [
+        {
+            "name": "Pindo Sasongko",
+            "email": "pindosasongko@gmail.com",
+        }
+    ],
+    "config": {
+        "vendor-dir": "application/vendor"
+    },
+    "require": {
+    }
+}
